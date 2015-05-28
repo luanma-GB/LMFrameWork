@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- titlebar背景色 -->
+    <color name="titlebar_color">#3dbbb8</color>
+    <!-- bottombar背景色 -->
+    <color name="bottombar_color">#5F0000FF</color>
+
+</resources>
